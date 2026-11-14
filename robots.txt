@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gv368767-tech.github.io/raju-dada-fuchka/sitemap.xml
